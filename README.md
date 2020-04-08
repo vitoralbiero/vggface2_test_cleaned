@@ -5,6 +5,8 @@ Get the [curated VGGFace2 Test here].
 
 [curated VGGFace2 Test here]:https://drive.google.com/open?id=1KsgN1a1dRXF60H5qxFMfVPrDkpcHA8Wp
 
+To get the password for the file, please send an email to valbiero@nd.edu.
+
 Get the [original VGGFace2 Test here].
 
 [original VGGFace2 Test here]:http://www.robots.ox.ac.uk/~vgg/data/vgg_face2/
