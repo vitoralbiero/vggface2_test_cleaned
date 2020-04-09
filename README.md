@@ -1,5 +1,5 @@
 # VGGFace2 Test Dataset Cleaned
-This repository contains the curated version of the VGGFace2 Test dataset from the paper "A Method for Curation of Web-Scraped Face Image Datasets".
+This repository contains the curated version of the VGGFace2 Test dataset from the paper [A Method for Curation of Web-Scraped Face Image Datasets](https://arxiv.org/abs/2004.03074).
 
 Get the [curated VGGFace2 Test here].
 
